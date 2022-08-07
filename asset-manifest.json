@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AdityaSharma224/calculator_react/static/css/main.be20693e.css",
+    "main.js": "/AdityaSharma224/calculator_react/static/js/main.bda53045.js",
+    "index.html": "/AdityaSharma224/calculator_react/index.html",
+    "main.be20693e.css.map": "/AdityaSharma224/calculator_react/static/css/main.be20693e.css.map",
+    "main.bda53045.js.map": "/AdityaSharma224/calculator_react/static/js/main.bda53045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be20693e.css",
+    "static/js/main.bda53045.js"
+  ]
+}
